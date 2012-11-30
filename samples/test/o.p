@@ -1,0 +1,3 @@
+fun o {
+   return "o";
+}

@@ -1,0 +1,2 @@
+#!/bin/csh -f
+java -jar antlr.jar -jar uperm.jar $1
